@@ -13,7 +13,7 @@ Currently learning statistical analysis and programming for proteomics data anal
 Programming and analysis:
 - R
 - ggplot2
-- Basic statistical analysis (t-test, ANOVA, correlation analysis)
+- Statistical analysis (t-test, ANOVA, correlation analysis)
 - Familiar with Bioconductor for bioinformatics data analysis
 
 Proteomics databases:
