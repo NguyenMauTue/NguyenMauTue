@@ -1,39 +1,36 @@
 # Nguyen Mau Tue
-Undergraduate student with strong interest in Bioinformatics, Proteomics, and Computational Biology.  
-Currently learning statistical analysis and programming for proteomics data analysis.
+
+First-year undergraduate at the University of Science, Vietnam National University Hanoi (HUS).
+Independent researcher in computational proteomics, with a focus on exosomal biomarker
+discovery in breast cancer.
+
+Preprint: *Systems-Informed Prioritization of Exosomal Protein Candidates in TNBC Identifies
+an ECM Invasion Module and Nominates Agrin as a High-Priority Target* — bioRxiv 2026
+(under review)
 
 ## Research Interests
-- Proteomics data analysis
-- Differential protein expression analysis
-- Statistical methods in biological data
-- Protein-protein interaction networks
-- Recombinant protein expression systems (long-term research interest)
+- Exosomal proteomics and liquid biopsy
+- Differential expression and network-based candidate prioritization
+- Multi-criteria decision frameworks in systems biology (AHP/CDS)
+- Extracellular matrix biology and heparan sulfate proteoglycans
+- Multi-omics approaches to early cancer detection
 
-## Tools and Resources
-Programming and analysis:
-- R
-- ggplot2
-- Statistical analysis (t-test, ANOVA, correlation analysis)
-- Familiar with Bioconductor for bioinformatics data analysis
+## Tools
+- **R**: limma, ggplot2, Bioconductor, biomaRt, clusterProfiler
+- **Proteomics**: MaxQuant LFQ, PRIDE database, STRING PPI networks
+- **Methods**: label-free quantification, GSEA, PCA, imputation strategies
+- **Reproducibility**: Git, GitHub, LaTeX/Overleaf
 
-Proteomics databases:
-- PRIDE proteomics database
-- STRING protein-protein interaction database
+## Current Project
+[PRIDE Breast Cancer Exosome Biomarker Discovery](https://github.com/NguyenMauTue/PRIDE-breast-cancer-exosome-biomarker-discovery)
+— A 15-script R pipeline implementing the Composite Driver Score (CDS) framework
+for exosomal protein prioritization in TNBC, with cross-dataset validation
+(Spearman r = 0.91).
 
-Workflow experience:
-- Analysis of public proteomics datasets
-- Differential expression analysis
-- Principal Component Analysis (PCA)
-- Data visualization (volcano plots, PCA plots)
-
-Version control:
-- Git
-- GitHub
-
-## Current Goals
-- Develop reproducible workflows for proteomics data analysis
-- Contribute to bioinformatics and proteomics research projects
-- Prepare for graduate studies in Bioinformatics or Computational Biology
+## Goals
+- Join a proteomics or multi-omics lab (target: Berlin, 2027–2028)
+- Build liquid biopsy pipelines for Vietnamese patient cohorts
+- Direct PhD track in computational biology/proteomics
 
 ## Location
 Hanoi, Vietnam
